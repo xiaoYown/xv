@@ -1,0 +1,24 @@
+{
+  "name": "cdn-assets-webpack-plugin",
+  "version": "1.0.0",
+  "description": "inject cdn resource into html template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoYown/cdn-assets-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "cdn",
+    "assets"
+  ],
+  "author": "xiaoYown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoYown/cdn-assets-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/xiaoYown/cdn-assets-webpack-plugin#readme"
+}
